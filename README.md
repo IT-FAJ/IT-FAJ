@@ -70,7 +70,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IT-FAJ&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=IT-FAJ&theme=tokyonight" />
 </p>
 
 ---
