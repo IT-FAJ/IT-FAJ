@@ -65,16 +65,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT-FAJ&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=IT-FAJ&theme=tokyonight" />
-</p>
-
----
-
 ## 🧠 About Me:
 
 * 🛡️ Interested in SOC Operations & Threat Detection
