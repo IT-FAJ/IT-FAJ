@@ -79,9 +79,3 @@
 * 🔐 Implemented authentication & firewall solutions
 
 ---
-
-## 👀 Profile Views:
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IT-FAJ&color=blue" />
-</p>
